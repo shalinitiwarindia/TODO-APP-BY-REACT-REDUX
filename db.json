@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "hello",
+      "status": false
+    },
+    {
+      "id": "8",
+      "title": "hii",
+      "status": true
+    },
+    {
+      "id": "9",
+      "title": "learn redux",
+      "status": false
+    },
+    {
+      "id": "6",
+      "title": "react",
+      "status": true
+    },
+    {
+      "id": "5",
+      "title": "go for walk",
+      "status": false
+    },
+    {
+      "id": "2",
+      "title": "talking",
+      "status": false
+    },
+    {
+      "id": "3",
+      "title": "test",
+      "status": false
+    },
+    {
+      "id": "4",
+      "title": "redux",
+      "status": false
+    },
+    {
+      "id": "7",
+      "title": "typescript",
+      "status": false
+    }
+  ]
+}
